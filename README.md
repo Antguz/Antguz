@@ -13,9 +13,8 @@ I am Postdoctoral Associate at the [Cavender-Bares Lab](https://cbs.umn.edu/cave
 
 ### Open-source Projects
 
-- **R packages:** [rTLS](https://github.com/Antguz/rTLS), [PLSR leaf traits](https://github.com/Antguz/PLSR_leaf-traits)
+- **R packages and code:** [rTLS](https://github.com/Antguz/rTLS), [PLSR leaf traits](https://github.com/Antguz/PLSR_leaf-traits)
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Antguz&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antguz&langs_count=3&hide=javascript,go,html,css,tex)
