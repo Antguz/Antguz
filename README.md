@@ -15,7 +15,8 @@ I am Postdoctoral Associate at the [Cavender-Bares Lab](https://cbs.umn.edu/cave
 
 ### Open-source Projects
 
-- **R packages and code:** [rTLS](https://github.com/Antguz/rTLS), [PLSR leaf traits](https://github.com/Antguz/PLSR_leaf-traits)
+- **R packages and code:** [CWT](https://github.com/Antguz/CWT), [rTLS](https://github.com/Antguz/rTLS), [SpecTraits](https://github.com/ASCEND-BII/SpecTraits),
+[PLSR leaf traits](https://github.com/Antguz/PLSR_leaf-traits)
 
 ---
 
