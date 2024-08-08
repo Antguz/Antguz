@@ -9,7 +9,7 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical?style=flat-square)](https://drive.google.com/file/d/1JfjoTqvgGL8OM3beOXqKBFMcL8rSGoA6/view?usp=sharing)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Antguz.Antguz)
 
-I am Postdoctoral Associate at the [Cavender-Bares Lab](https://cbs.umn.edu/cavender-bares-lab/home) in the Ecology, Evolution and Behavior Department of the [University of Minnesota](https://cbs.umn.edu/academics/departments/eeb). I am an ecologist by training with a particular interest in linking plant ecophysiology, remote sensing, and modelling. By linking these fields, my aim is to better understand the dynamics that prevail in the ecosystems that can have a meaningful impact on environmental management. I am passionate about data, technology, and open-software and its application for the public benefit. More information about my research and experience can be found at my [personal website](https://www.jaguzmanq.com).
+I am Research Scientist at the [Cavender-Bares Lab](https://oeb.harvard.edu/people/jeannine-cavender-bares) in the Organismic and Evolutionary Biology Department at [Harvard University](https://oeb.harvard.edu/). I am an ecologist by training with a particular interest in linking plant ecophysiology, remote sensing, and modelling. By linking these fields, my aim is to better understand the dynamics that prevail in the ecosystems that can have a meaningful impact on environmental management. I am passionate about data, technology, and open-software and its application for the public benefit. More information about my research and experience can be found at my [personal website](https://www.jaguzmanq.com).
 
 ---
 
